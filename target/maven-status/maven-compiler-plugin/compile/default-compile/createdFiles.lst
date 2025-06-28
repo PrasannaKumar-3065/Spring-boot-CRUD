@@ -1,0 +1,5 @@
+CRUD\example\users\controller\UserController.class
+CRUD\example\users\service\UserService.class
+CRUD\example\users\UsersApplication.class
+CRUD\example\users\model\User.class
+CRUD\example\users\repository\UserRepository.class
